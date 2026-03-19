@@ -1,33 +1,32 @@
-ATM MANAGEMENT SYSTEM
+## ATM MANAGEMENT SYSTEM 
 
 This project is an ATM Machine system designed to help customers to deposit, withdraw and transact money and also view balance and change pin
 
-Features
+## Features
 
-Login authentication
+-Login authentication
 username: 1001
 password: 1234
 
-Deposit
+-Deposit
 
-Withdrawal
+-Withdrawal
 
-Transaction
+-Transaction
 
-Check balance
+-Check balance
 
-Change pin
+-Change pin
 
 
+## Technologies Used
+-Visual basic
 
-Technologies Used
-Visual basic
+-Visual Studio
 
-Visual Studio
+## Setup
+-Clone this repository
+-Open the project in Visual Studio
 
-Setup
-Clone this repository
-Open the project in Visual Studio
-
-Author
+## Author
 MARK PRESTON
